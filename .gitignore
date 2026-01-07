@@ -9,5 +9,6 @@ esptool-linux-amd64/
 !/docs/logo.ico
 !/docs/logo.png
 
+/sdkconfig.old
 # 等到模板完成时屏蔽忽略 sdkconfig
 # sdkconfig
